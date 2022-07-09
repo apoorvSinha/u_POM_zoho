@@ -1,0 +1,124 @@
+08/07/2022 20:08:57 devpinoyLogger Config file found
+08/07/2022 20:08:57 devpinoyLogger Config file loaded
+08/07/2022 20:08:57 devpinoyLogger OBject Repository file found successfully
+08/07/2022 20:08:57 devpinoyLogger Object Repository file loaded
+08/07/2022 20:08:57 devpinoyLogger Browser value chrome received from jenkins
+08/07/2022 20:08:57 devpinoyLogger browser set as chrome
+08/07/2022 20:09:03 devpinoyLogger Chrome driver launched successfully
+08/07/2022 20:09:09 devpinoyLogger Clicking on: loginlink_linkText
+08/07/2022 20:09:09 devpinoyLogger Typing in: email_CSS entered value is: apoorvlifeok@outlook.com
+08/07/2022 20:09:09 devpinoyLogger Clicking on: next_CSS
+08/07/2022 20:09:10 devpinoyLogger Typing in: password_CSS entered value is: JUSTdance@96
+08/07/2022 20:09:10 devpinoyLogger Clicking on: next_CSS
+08/07/2022 20:22:07 devpinoyLogger Config file found
+08/07/2022 20:22:07 devpinoyLogger Config file loaded
+08/07/2022 20:22:07 devpinoyLogger OBject Repository file found successfully
+08/07/2022 20:22:07 devpinoyLogger Object Repository file loaded
+08/07/2022 20:22:07 devpinoyLogger Browser value chromereceived from config file
+08/07/2022 20:22:07 devpinoyLogger browser set as chrome
+08/07/2022 20:22:11 devpinoyLogger Chrome driver launched successfully
+08/07/2022 20:22:16 devpinoyLogger Clicking on: loginlink_linkText
+08/07/2022 20:22:17 devpinoyLogger Typing in: email_CSS entered value is: apoorvlifeok@outlook.com
+08/07/2022 20:22:17 devpinoyLogger Clicking on: next_CSS
+08/07/2022 20:22:17 devpinoyLogger Typing in: password_CSS entered value is: JUSTdance@96
+08/07/2022 20:22:17 devpinoyLogger Clicking on: next_CSS
+08/07/2022 20:25:41 devpinoyLogger Config file found
+08/07/2022 20:25:41 devpinoyLogger Config file loaded
+08/07/2022 20:25:41 devpinoyLogger OBject Repository file found successfully
+08/07/2022 20:25:41 devpinoyLogger Object Repository file loaded
+08/07/2022 20:25:41 devpinoyLogger Browser value chromereceived from config file
+08/07/2022 20:25:41 devpinoyLogger browser set as chrome
+08/07/2022 20:25:44 devpinoyLogger Chrome driver launched successfully
+08/07/2022 20:25:50 devpinoyLogger Clicking on: loginlink_linkText
+08/07/2022 20:25:50 devpinoyLogger Typing in: email_CSS entered value is: apoorvlifeok@outlook.com
+08/07/2022 20:25:51 devpinoyLogger Clicking on: next_CSS
+08/07/2022 20:25:51 devpinoyLogger Typing in: password_CSS entered value is: JUSTdance@96
+08/07/2022 20:25:51 devpinoyLogger Clicking on: next_CSS
+08/07/2022 20:30:46 devpinoyLogger Config file found
+08/07/2022 20:30:46 devpinoyLogger Config file loaded
+08/07/2022 20:30:46 devpinoyLogger OBject Repository file found successfully
+08/07/2022 20:30:46 devpinoyLogger Object Repository file loaded
+08/07/2022 20:30:46 devpinoyLogger Browser value chromereceived from config file
+08/07/2022 20:30:46 devpinoyLogger browser set as chrome
+08/07/2022 20:30:49 devpinoyLogger Chrome driver launched successfully
+08/07/2022 20:30:56 devpinoyLogger Clicking on: loginlink_linkText
+08/07/2022 20:30:56 devpinoyLogger Typing in: email_CSS entered value is: apoorvlifeok@outlook.com
+08/07/2022 20:30:56 devpinoyLogger Clicking on: next_CSS
+08/07/2022 20:30:56 devpinoyLogger Typing in: password_CSS entered value is: JUSTdance@96
+08/07/2022 20:30:57 devpinoyLogger Clicking on: next_CSS
+08/07/2022 20:53:07 devpinoyLogger Config file found
+08/07/2022 20:53:07 devpinoyLogger Config file loaded
+08/07/2022 20:53:07 devpinoyLogger OBject Repository file found successfully
+08/07/2022 20:53:07 devpinoyLogger Object Repository file loaded
+08/07/2022 20:53:07 devpinoyLogger Browser value chrome received from jenkins
+08/07/2022 20:53:07 devpinoyLogger browser set as chrome
+08/07/2022 20:53:10 devpinoyLogger Chrome driver launched successfully
+08/07/2022 20:53:18 devpinoyLogger Clicking on: loginlink_linkText
+08/07/2022 20:53:18 devpinoyLogger Typing in: email_CSS entered value is: apoorvlifeok@outlook.com
+08/07/2022 20:53:18 devpinoyLogger Clicking on: next_CSS
+08/07/2022 20:53:18 devpinoyLogger Typing in: password_CSS entered value is: JUSTdance@96
+08/07/2022 20:53:18 devpinoyLogger Clicking on: next_CSS
+08/07/2022 20:53:29 devpinoyLogger Clicking on: CRM_XPATH
+08/07/2022 20:53:31 devpinoyLogger Clicking on: Accouns_linkText
+08/07/2022 20:53:34 devpinoyLogger Clicking on: createAccount_XPATH
+08/07/2022 20:53:36 devpinoyLogger Typing in: enterAccountName_ID entered value is: Rahul
+09/07/2022 20:07:50 devpinoyLogger Config file found
+09/07/2022 20:07:50 devpinoyLogger Config file loaded
+09/07/2022 20:07:50 devpinoyLogger OBject Repository file found successfully
+09/07/2022 20:07:50 devpinoyLogger Object Repository file loaded
+09/07/2022 20:07:50 devpinoyLogger Browser value chrome received from jenkins
+09/07/2022 20:07:50 devpinoyLogger browser set as chrome
+09/07/2022 20:07:53 devpinoyLogger Chrome driver launched successfully
+09/07/2022 20:08:05 devpinoyLogger Clicking on: loginlink_linkText
+09/07/2022 20:08:06 devpinoyLogger Typing in: email_CSS entered value is: apoorvlifeok@outlook.com
+09/07/2022 20:08:06 devpinoyLogger Clicking on: next_CSS
+09/07/2022 20:08:06 devpinoyLogger Typing in: password_CSS entered value is: JUSTdance@96
+09/07/2022 20:08:06 devpinoyLogger Clicking on: next_CSS
+09/07/2022 20:08:14 devpinoyLogger Clicking on: CRM_XPATH
+09/07/2022 20:08:16 devpinoyLogger Clicking on: Accouns_linkText
+09/07/2022 20:08:20 devpinoyLogger Clicking on: createAccount_XPATH
+09/07/2022 20:08:23 devpinoyLogger Typing in: enterAccountName_ID entered value is: Rahul
+09/07/2022 20:19:02 devpinoyLogger Config file found
+09/07/2022 20:19:02 devpinoyLogger Config file loaded
+09/07/2022 20:19:02 devpinoyLogger OBject Repository file found successfully
+09/07/2022 20:19:02 devpinoyLogger Object Repository file loaded
+09/07/2022 20:19:02 devpinoyLogger Browser value chrome received from jenkins
+09/07/2022 20:19:02 devpinoyLogger browser set as chrome
+09/07/2022 20:19:05 devpinoyLogger Chrome driver launched successfully
+09/07/2022 20:19:11 devpinoyLogger Clicking on: loginlink_linkText
+09/07/2022 20:19:12 devpinoyLogger Typing in: email_CSS entered value is: apoorvlifeok@outlook.com
+09/07/2022 20:19:12 devpinoyLogger Clicking on: next_CSS
+09/07/2022 20:19:12 devpinoyLogger Typing in: password_CSS entered value is: JUSTdance@96
+09/07/2022 20:19:12 devpinoyLogger Clicking on: next_CSS
+09/07/2022 20:24:01 devpinoyLogger Config file found
+09/07/2022 20:24:01 devpinoyLogger Config file loaded
+09/07/2022 20:24:01 devpinoyLogger OBject Repository file found successfully
+09/07/2022 20:24:01 devpinoyLogger Object Repository file loaded
+09/07/2022 20:24:01 devpinoyLogger Browser value chromereceived from config file
+09/07/2022 20:24:01 devpinoyLogger browser set as chrome
+09/07/2022 20:24:05 devpinoyLogger Chrome driver launched successfully
+09/07/2022 20:24:12 devpinoyLogger Clicking on: loginlink_linkText
+09/07/2022 20:24:12 devpinoyLogger Typing in: email_CSS entered value is: apoorvlifeok@outlook.com
+09/07/2022 20:24:12 devpinoyLogger Clicking on: next_CSS
+09/07/2022 20:24:12 devpinoyLogger Typing in: password_CSS entered value is: JUSTdance@96
+09/07/2022 20:24:12 devpinoyLogger Clicking on: next_CSS
+09/07/2022 20:24:21 devpinoyLogger Clicking on: CRM_XPATH
+09/07/2022 20:24:23 devpinoyLogger Clicking on: Accouns_linkText
+09/07/2022 20:24:25 devpinoyLogger Clicking on: createAccount_XPATH
+09/07/2022 20:24:27 devpinoyLogger Typing in: enterAccountName_ID entered value is: Rahul
+09/07/2022 20:29:46 devpinoyLogger Config file found
+09/07/2022 20:29:46 devpinoyLogger Config file loaded
+09/07/2022 20:29:46 devpinoyLogger OBject Repository file found successfully
+09/07/2022 20:29:46 devpinoyLogger Object Repository file loaded
+09/07/2022 20:29:46 devpinoyLogger Browser value chromereceived from config file
+09/07/2022 20:29:46 devpinoyLogger browser set as chrome
+09/07/2022 20:29:49 devpinoyLogger Chrome driver launched successfully
+09/07/2022 20:29:55 devpinoyLogger Clicking on: loginlink_linkText
+09/07/2022 20:29:56 devpinoyLogger Typing in: email_CSS entered value is: apoorvlifeok@outlook.com
+09/07/2022 20:29:56 devpinoyLogger Clicking on: next_CSS
+09/07/2022 20:29:56 devpinoyLogger Typing in: password_CSS entered value is: JUSTdance@96
+09/07/2022 20:29:56 devpinoyLogger Clicking on: next_CSS
+09/07/2022 20:30:06 devpinoyLogger Clicking on: CRM_XPATH
+09/07/2022 20:30:11 devpinoyLogger Clicking on: Accouns_linkText
+09/07/2022 20:30:14 devpinoyLogger Clicking on: createAccount_XPATH
+09/07/2022 20:30:15 devpinoyLogger Typing in: enterAccountName_ID entered value is: Rahul

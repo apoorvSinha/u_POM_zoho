@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Login Test"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="1"
+           time="1.120">
+  <properties />
+  
+            <testcase name="LoginTest" time="0.0" classname="com.apoorv.testcases.LoginTest1">
+          <skipped />
+    </testcase>
+  
+  
+</testsuite>

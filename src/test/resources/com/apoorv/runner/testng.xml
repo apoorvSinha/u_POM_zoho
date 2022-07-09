@@ -1,0 +1,22 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Page object test cases">
+	<listeners>
+		<listener class-name="org.uncommons.reportng.HTMLReporter"></listener>
+		<listener class-name="org.uncommons.reportng.JUnitXMLReporter"></listener>
+		<listener class-name="com.apoorv.listeners.CustomListeners"></listener>
+		<listener class-name="com.apoorv.listeners.ExtentListeners"></listener>
+	</listeners>
+
+	<test thread-count="5" name="Login Test">
+		<classes>
+			<class name="com.apoorv.testcases.LoginTest" />
+		</classes>
+	</test> <!-- Test -->
+	<test thread-count="5" name="Create account Test">
+		<classes>
+			<class name="com.apoorv.testcases.CreateAccountTest" />
+		</classes>
+	</test> <!-- Test -->
+
+
+</suite> <!-- Suite -->
