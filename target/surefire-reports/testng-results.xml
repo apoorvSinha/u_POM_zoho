@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-07-10T06:00:53Z" name="Page object test cases" finished-at="2022-07-10T06:01:10Z" duration-ms="17414">
+  <suite started-at="2022-07-10T06:21:33Z" name="Page object test cases" finished-at="2022-07-10T06:21:47Z" duration-ms="14652">
     <groups>
     </groups>
-    <test started-at="2022-07-10T06:00:53Z" name="Login Test" finished-at="2022-07-10T06:00:56Z" duration-ms="2706">
+    <test started-at="2022-07-10T06:21:33Z" name="Login Test" finished-at="2022-07-10T06:21:35Z" duration-ms="2087">
       <class name="com.apoorv.testcases.LoginTest">
-        <test-method signature="loginTest(java.util.Hashtable)[pri:0, instance:com.apoorv.testcases.LoginTest@737db7f8]" started-at="2022-07-10T06:00:53Z" name="loginTest" data-provider="dp" finished-at="2022-07-10T06:00:56Z" duration-ms="2410" status="PASS">
+        <test-method signature="loginTest(java.util.Hashtable)[pri:0, instance:com.apoorv.testcases.LoginTest@2aaf152b]" started-at="2022-07-10T06:21:33Z" name="loginTest" data-provider="dp" finished-at="2022-07-10T06:21:35Z" duration-ms="1889" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -20,9 +20,9 @@
         </test-method> <!-- loginTest -->
       </class> <!-- com.apoorv.testcases.LoginTest -->
     </test> <!-- Login Test -->
-    <test started-at="2022-07-10T06:00:57Z" name="Create account Test" finished-at="2022-07-10T06:01:10Z" duration-ms="13067">
+    <test started-at="2022-07-10T06:21:36Z" name="Create account Test" finished-at="2022-07-10T06:21:47Z" duration-ms="11634">
       <class name="com.apoorv.testcases.CreateAccountTest">
-        <test-method signature="createAccountTest(java.util.Hashtable)[pri:0, instance:com.apoorv.testcases.CreateAccountTest@63a28987]" started-at="2022-07-10T06:00:57Z" name="createAccountTest" data-provider="dp" finished-at="2022-07-10T06:01:10Z" duration-ms="13060" status="PASS">
+        <test-method signature="createAccountTest(java.util.Hashtable)[pri:0, instance:com.apoorv.testcases.CreateAccountTest@404db674]" started-at="2022-07-10T06:21:36Z" name="createAccountTest" data-provider="dp" finished-at="2022-07-10T06:21:47Z" duration-ms="11629" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -35,7 +35,7 @@
         </test-method> <!-- createAccountTest -->
       </class> <!-- com.apoorv.testcases.CreateAccountTest -->
       <class name="com.apoorv.testcases.LoginTest">
-        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.apoorv.testcases.LoginTest@737db7f8]" started-at="2022-07-10T06:01:11Z" name="TearDown" finished-at="2022-07-10T06:01:11Z" duration-ms="522" status="PASS">
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.apoorv.testcases.LoginTest@2aaf152b]" started-at="2022-07-10T06:21:48Z" name="TearDown" finished-at="2022-07-10T06:21:48Z" duration-ms="597" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TearDown -->

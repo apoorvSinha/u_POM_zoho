@@ -138,3 +138,19 @@
 10/07/2022 11:31:06 devpinoyLogger Clicking on: Accouns_linkText
 10/07/2022 11:31:09 devpinoyLogger Clicking on: createAccount_XPATH
 10/07/2022 11:31:10 devpinoyLogger Typing in: enterAccountName_ID entered value is: Rahul
+10/07/2022 11:51:25 devpinoyLogger Config file found
+10/07/2022 11:51:25 devpinoyLogger Config file loaded
+10/07/2022 11:51:25 devpinoyLogger OBject Repository file found successfully
+10/07/2022 11:51:25 devpinoyLogger Object Repository file loaded
+10/07/2022 11:51:25 devpinoyLogger Browser value chromereceived from config file
+10/07/2022 11:51:25 devpinoyLogger browser set as chrome
+10/07/2022 11:51:28 devpinoyLogger Chrome driver launched successfully
+10/07/2022 11:51:34 devpinoyLogger Clicking on: loginlink_linkText
+10/07/2022 11:51:34 devpinoyLogger Typing in: email_CSS entered value is: apoorvlifeok@outlook.com
+10/07/2022 11:51:34 devpinoyLogger Clicking on: next_CSS
+10/07/2022 11:51:35 devpinoyLogger Typing in: password_CSS entered value is: JUSTdance@96
+10/07/2022 11:51:35 devpinoyLogger Clicking on: next_CSS
+10/07/2022 11:51:41 devpinoyLogger Clicking on: CRM_XPATH
+10/07/2022 11:51:43 devpinoyLogger Clicking on: Accouns_linkText
+10/07/2022 11:51:45 devpinoyLogger Clicking on: createAccount_XPATH
+10/07/2022 11:51:47 devpinoyLogger Typing in: enterAccountName_ID entered value is: Rahul
